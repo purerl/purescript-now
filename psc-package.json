@@ -1,0 +1,10 @@
+{
+    "name": "purescript-now",
+    "set": "purerl-0.11.6-20170930235830",
+    "source": "https://github.com/joneshf/purescript-package-sets.git",
+    "depends": [
+        "datetime",
+        "eff",
+        "prelude"
+    ]
+}
